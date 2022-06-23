@@ -1,4 +1,6 @@
-# electron-react-firebase
-
+clone repo
 npm i
-npm start
+run with 'npm run dev' on command prompt
+
+based on tutorial videos:
+https://www.youtube.com/watch?v=aGurmuC43Us&ab_channel=MichaelHadley
